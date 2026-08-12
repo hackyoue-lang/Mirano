@@ -12,7 +12,7 @@
 ## Deuxième méthode
 
 1. Dans le menu FiveM, appuyez sur la touche **F8** pour ouvrir la **console**.
-2. **Collez** la commande **`connect cfx.re/join/83.150.218.28:30100`** dans la console.
+2. **Collez** la commande **`connect 83.150.218.28:30100`** dans la console.
 3. Appuyez sur **Entrée** pour vous connecter au serveur !
 
 ---
