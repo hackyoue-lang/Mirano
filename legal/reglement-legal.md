@@ -37,10 +37,10 @@
 
 Voici d'autres **informations** concernant le côté **légal** à prendre en **compte** !
 
-- [Notes des entreprises](notes-des-entreprises.md)
-- [Devenir patron d'une entreprise](devenir-patron-dune-entreprise.md)
-- [Rôles des forces de l'ordre](roles-des-forces-de-lordre.md)
-- [Règlement des forces de l'ordre et EMS](reglement-des-forces-de-lordre-et-ems.md)
+- [Notes des entreprises](reglement-legal/notes-des-entreprises.md)
+- [Devenir patron d'une entreprise](reglement-legal/devenir-patron-dune-entreprise.md)
+- [Rôles des forces de l'ordre](reglement-legal/roles-des-forces-de-lordre.md)
+- [Règlement des forces de l'ordre et EMS](reglement-legal/reglement-des-forces-de-lordre-et-ems.md)
 - [Sanctions](sanctions.md)
 
 ---

@@ -1,4 +1,4 @@
-# Sanctions
+# Charte des sanctions
 
 > [!DANGER]
 > Le règlement doit **obligatoirement** être lu et accepté dès votre **arrivée** sur le **serveur**. Tout **non-respect** de cette **règle** est **sanctionnable**.
@@ -62,4 +62,4 @@
 
 ## Voir aussi
 
-- [Sanctions (règlement détaillé)](legal/sanctions.md)
+- [Sanctions (règlement détaillé)](sanctions.md)

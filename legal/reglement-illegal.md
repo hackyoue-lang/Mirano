@@ -78,10 +78,10 @@ Seules les **organisations reconnues** ou les **gangs** peuvent effectuer des **
 
 Voici d'autres **informations** concernant le côté **illégale** à prendre en **compte** !
 
-- [Notes des organisations/gangs](notes-des-organisations-gangs.md)
-- [Devenir patron d'une organisation / d'un gang](devenir-patron-dune-organisation-dun-gang.md)
-- [Règlement des activités illégales](reglement-des-activites-illegal.md)
-- [Règlement descente](reglement-descente.md)
+- [Notes des organisations/gangs](reglement-illegal/notes-des-organisations-gangs.md)
+- [Devenir patron d'une organisation / d'un gang](reglement-illegal/devenir-patron-dune-organisation-dun-gang.md)
+- [Règlement des activités illégales](reglement-illegal/reglement-des-activites-illegal.md)
+- [Règlement descente](reglement-illegal/reglement-descente.md)
 
 ---
 

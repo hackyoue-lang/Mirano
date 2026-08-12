@@ -54,5 +54,5 @@ Ce **règlement** garantit une **gestion** **juste** et **transparente** des **s
 
 ## Voir aussi
 
-- [Sanctions (vue d'ensemble)](../sanctions.md)
-- [Règlement des forces de l'ordre et EMS](reglement-des-forces-de-lordre-et-ems.md)
+- [Sanctions (vue d'ensemble)](charte-sanctions.md)
+- [Règlement des forces de l'ordre et EMS](reglement-legal/reglement-des-forces-de-lordre-et-ems.md)
