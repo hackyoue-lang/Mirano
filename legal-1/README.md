@@ -1,2 +1,6 @@
-# legal
+---
+icon: gears
+---
+
+# Règlement Légal & Illégal
 
