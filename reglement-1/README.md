@@ -1,6 +1,0 @@
----
-icon: think-peaks
----
-
-# Rp
-
