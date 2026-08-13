@@ -1,5 +1,7 @@
 # Mirano
 
+![Logo Mirano](assets/mirano-logo.webp)
+
 Bienvenue sur le wiki **Mirano**, un serveur RolePlay FiveM.
 
 Rejoignez le serveur Discord : [https://discord.gg/yxtfkjVWM](https://discord.gg/yxtfkjVWM)
