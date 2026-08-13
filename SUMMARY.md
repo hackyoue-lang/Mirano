@@ -25,7 +25,6 @@
 
 ## AIDE ET INFORMATION
 
-* [⚙️ RAPPORT](aide-et-information/rapport.md)
 * [💻 DISCORDE](aide-et-information/discord.md)
 * [⚙️ Connexion](aide-et-information/connexion.md)
 * [🛍️ BOUTIQUE](aide-et-information/boutique/README.md)
