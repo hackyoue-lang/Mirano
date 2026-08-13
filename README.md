@@ -1,6 +1,6 @@
 # Mirano
 
-![Logo Mirano](assets/mirano-logo.webp)
+![](assets/mirano-logo.webp)
 
 Bienvenue sur le wiki **Mirano**, un serveur RolePlay FiveM.
 
