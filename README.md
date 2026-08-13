@@ -32,6 +32,7 @@ Rejoignez le serveur Discord : [https://discord.gg/yxtfkjVWM](https://discord.gg
     - [Devenir patron d'une organisation / d'un gang](legal/reglement-illegal/devenir-patron-dune-organisation-dun-gang.md)
     - [Règlement des activités illégales](legal/reglement-illegal/reglement-des-activites-illegal.md)
     - [Règlement descente](legal/reglement-illegal/reglement-descente.md)
+  - [Règlement Staff](legal/reglement-staff.md)
 
 ## ⚙️ Aide & Information
 
