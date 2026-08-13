@@ -10,7 +10,6 @@ Il existe plusieurs règlements à prendre en compte, couvrant différents aspec
 
 ## Règlements généraux
 
-- [Règlement Général](reglement/reglement-general.md)
 - [Discord](aide/discord.md)
 - [Règlement Streaming](reglement/reglement-streaming.md)
 

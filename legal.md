@@ -2,6 +2,7 @@
 
 Il est essentiel que toutes les **informations** détaillées concernant le règlement du RP **légal** et **illégal** soient pleinement **comprises**.
 
+- [Règlement Général](legal/reglement-general.md)
 - [Règlement Légal](legal/reglement-legal.md)
 - [Règlement Illégal](legal/reglement-illegal.md)
 

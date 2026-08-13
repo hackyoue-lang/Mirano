@@ -11,7 +11,6 @@ Rejoignez le serveur Discord : [https://discord.gg/yxtfkjVWM](https://discord.gg
 ## 📑 Règlement
 
 - [Règlement](reglement.md)
-  - [Règlement Général](reglement/reglement-general.md)
   - [Règlement Streaming](reglement/reglement-streaming.md)
   - [Information RP](reglement/information-rp.md)
     - [Coma](reglement/information-rp/coma.md)
@@ -20,6 +19,7 @@ Rejoignez le serveur Discord : [https://discord.gg/yxtfkjVWM](https://discord.gg
 ## 🗺️ Légal & Illégal
 
 - [Légal & Illégal](legal.md)
+  - [Règlement Général](legal/reglement-general.md)
   - [Règlement Légal](legal/reglement-legal.md)
     - [Notes des entreprises](legal/reglement-legal/notes-des-entreprises.md)
     - [Devenir patron d'une entreprise](legal/reglement-legal/devenir-patron-dune-entreprise.md)
